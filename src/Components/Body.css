@@ -1,0 +1,28 @@
+.btn{
+    border: none;
+}
+
+.Planet-images{
+    margin-left: 25px;
+    
+}
+
+.parent{
+    display: flex;
+}
+
+.container{
+    margin-left: 20px ;
+}
+
+navbar-brand{
+    text-align: center;
+}
+
+.ans{
+    border: 1px solid rgba(119, 118, 118, 0.385);
+    border-radius: 6px;
+    height: 38px;
+    color: grey;
+    padding-top: 5px;
+}
