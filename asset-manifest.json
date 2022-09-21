@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weight-Planet-Calculator/static/css/main.869b8835.css",
+    "main.js": "/Weight-Planet-Calculator/static/js/main.b8ebf4ae.js",
+    "static/js/787.c98da3ce.chunk.js": "/Weight-Planet-Calculator/static/js/787.c98da3ce.chunk.js",
+    "index.html": "/Weight-Planet-Calculator/index.html",
+    "main.869b8835.css.map": "/Weight-Planet-Calculator/static/css/main.869b8835.css.map",
+    "main.b8ebf4ae.js.map": "/Weight-Planet-Calculator/static/js/main.b8ebf4ae.js.map",
+    "787.c98da3ce.chunk.js.map": "/Weight-Planet-Calculator/static/js/787.c98da3ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869b8835.css",
+    "static/js/main.b8ebf4ae.js"
+  ]
+}
